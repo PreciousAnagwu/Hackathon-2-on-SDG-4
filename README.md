@@ -50,7 +50,6 @@ ________________________________________
 👩‍💻 Author
 Anagwu Precious Chinemerem
 Hackathon 2 Participant – PLP Academy
-🔗 Live Demo: EduConnect App
 
 
 
